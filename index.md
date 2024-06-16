@@ -4,3 +4,6 @@
 #### Header H4 example
 ##### Header H5 example 
 ###### Header H6 example
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
